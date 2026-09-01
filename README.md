@@ -8,7 +8,7 @@ This engine port requires the latest version of GameMaker.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # Join the Complete Cook Discord server!
-[Discord Server Link](https://discord.gg/httWKmg4Y5).
+[Discord Server Link](https://discord.gg/httWKmg4Y5)
 
 # Join the Pasta Castle Discord server!
-[Discord Server Link](https://discord.gg/X4CxKZKTkv).
+[Discord Server Link](https://discord.gg/X4CxKZKTkv)
