@@ -39,10 +39,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_pepperman_idle",
-    "path":"sprites/spr_pepperman_idle/spr_pepperman_idle.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":{
     "name":"mask_pepperman",
     "path":"sprites/mask_pepperman/mask_pepperman.yy",
