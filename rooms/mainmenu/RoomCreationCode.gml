@@ -1,0 +1,1 @@
+gameframe_caption_text = "Now Playing: Fidelity Hotel"

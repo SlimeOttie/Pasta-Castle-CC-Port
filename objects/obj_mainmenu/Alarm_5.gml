@@ -1,0 +1,1 @@
+TVsprite = spr_mainmenu_tv

@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_pizzaboy",
-    "path":"sprites/spr_pizzaboy/spr_pizzaboy.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":{
     "name":"mask_player",
     "path":"sprites/mask_player/mask_player.yy",

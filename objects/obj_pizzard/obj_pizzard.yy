@@ -34,10 +34,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_pizzard_move",
-    "path":"sprites/spr_pizzard_move/spr_pizzard_move.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":{
     "name":"mask_player",
     "path":"sprites/mask_player/mask_player.yy",

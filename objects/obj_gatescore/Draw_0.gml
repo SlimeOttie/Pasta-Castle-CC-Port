@@ -4,11 +4,11 @@ draw_set_align(fa_left, fa_top)
 
 var text_offsets = [0, 1, 1, 1, 0, -1, -2, -3, -5, -2, -1, 0]
 
-var text_offset = text_offsets[image_index]
+var text_offsets = text_offsets[image_index]
 
 draw_sprite(spr_pizzascore, image_index, x, y)
 for (var i = 0; i < min(rank_ix, 4); i++)
-	draw_sprite(spr_pizzascore_toppings, i, x, y + text_offset)
+	draw_sprite(spr_pizzascore_toppings, i, x, y + text_offsets)
 
 var str = string(number)
 var num = string_length(str)
@@ -20,7 +20,7 @@ var ty = ystart
 for (var i = 0; i < num; i++)
 {
 	var yy = (i + 1) % 2 == 0 ? -5 : 0
-	draw_text(floor(xx), min(ty + yy - 56 + text_offset, ystart + text_y + (num * 20 - (i * 20))), string_char_at(str, i + 1))
+	draw_text(floor(xx), min(ty + yy - 56 + text_offsets, ystart + text_y + (num * 20 - (i * 20))), string_char_at(str, i + 1))
 	xx += (w / num)
 }
 

@@ -35,10 +35,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_pizzaface",
-    "path":"sprites/spr_pizzaface/spr_pizzaface.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":{
     "name":"mask_player",
     "path":"sprites/mask_player/mask_player.yy",
